@@ -1,0 +1,1 @@
+export const JIDONG_SECRET = 'asecret'
